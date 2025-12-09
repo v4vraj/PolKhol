@@ -1,0 +1,21 @@
+# Core Web Framework and Server
+fastapi
+uvicorn
+
+# Database Connector (PostgreSQL) and ORM/SQL Toolkit
+sqlalchemy
+psycopg2-binary
+
+# Password Hashing
+passlib[argon2]
+
+# Authentication (JWT)
+python-jose[cryptography]
+
+# Configuration and Utilities
+python-dotenv
+pydantic[email]
+python-multipart
+
+# minio / S3 client
+boto3
