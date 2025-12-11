@@ -19,3 +19,7 @@ python-multipart
 
 # minio / S3 client
 boto3
+
+# perception model dependencies
+torch
+transformers
